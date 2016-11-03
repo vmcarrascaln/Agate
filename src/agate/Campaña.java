@@ -32,15 +32,15 @@ public class Campaña {
     }
     
     
-    public Persona registrarPersona(){
-        return null;
-    }
-    
-    public void resgistroPago(){
+    public void registrarPersona(Persona p){
         
     }
     
-    public int tarifaPersona(){
+    public void resgistroPagoCampaña(){
+        
+    }
+    
+    public int tarifaPersona(Persona p){
         return 0;
     }
     
