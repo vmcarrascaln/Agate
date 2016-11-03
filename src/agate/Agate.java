@@ -12,8 +12,8 @@ package agate;
 public class Agate {
 
     
-    public Clientes registroClientes(Clientes cl){
-        return null;
+    public void registroClientes(Clientes cl){
+        
     }
     
     public int facturacionCampaña(Clientes cl){
