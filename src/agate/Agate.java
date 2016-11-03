@@ -11,22 +11,16 @@ package agate;
  */
 public class Agate {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
     
-    public Clientes registroClientes(){
+    public Clientes registroClientes(Clientes cl){
         return null;
     }
     
-    public int facturacionCampaña(){
+    public int facturacionCampaña(Clientes cl){
         return 0;        
     }
     
-    public void registrarPersonal(){
+    public void registrarPersonal(Persona p){
         
     }
     
