@@ -33,7 +33,7 @@ public class Creativos {
         this.bibliotecario = bibliotecario;
     }
     
-    public String registrarCampañas(Campaña c){
+    public String registrarNotas(Campaña c){
         return null;
     }
     
