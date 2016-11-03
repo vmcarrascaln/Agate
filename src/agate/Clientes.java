@@ -21,7 +21,7 @@ public class Clientes {
         this.direcciones = direcciones;
     }
 
-    public void registroCampaña(){
+    public void registroCampaña(Campaña c){
         
     }
     
@@ -29,11 +29,11 @@ public class Clientes {
         return null;
     }
     
-    public Campaña verificacionPresupuesto(){
-        return null;
+    public void verificacionPresupuesto(Campaña c){
+        
     }
     
-    public double incentivoAnual(){
+    public double incentivoAnual(Persona p){
         return 0;
     }
     

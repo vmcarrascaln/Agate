@@ -32,6 +32,22 @@ public class Creativos {
         this.tecnicoDeAudio = tecnicoDeAudio;
         this.bibliotecario = bibliotecario;
     }
+    
+    public String registrarCampañas(Campaña c){
+        return null;
+    }
+    
+    public ArrayList<String> setNotas(){
+        return null;
+    }
+    
+    public void registrarAnuncios(Campaña c){
+        
+    }
+    
+    public Date programarFechas(Campaña c){
+        return null;
+    }
 
     public ArrayList<String> getNotas() {
         return notas;
